@@ -45,7 +45,7 @@ high-probability moves. See STRATEGY.md for details.
   in STRATEGY.md). Interim drawdowns of 30% or more on a single
   position are accepted while the setup remains valid.
 - Maximum drawdown: 50% from the high-water mark of the account.
-  When reached, all trading is paused for [e.g. 1 month] and the
+  When reached, all trading is paused for 2 weeks and the
   strategy is formally reviewed before resuming.
 
 ## 7. Known Risks
